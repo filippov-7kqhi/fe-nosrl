@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fe-nosrl.shop/sitemap.xml
